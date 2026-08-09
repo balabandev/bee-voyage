@@ -1,0 +1,16 @@
+{
+  "nav": {
+    "home": "Home",
+    "tours": "Tours",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Travel with Bee Voyage",
+    "subtitle": "Discover the world with us",
+    "cta": "View Tours"
+  },
+  "footer": {
+    "rights": "All rights reserved"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "nav": {
+    "home": "Acasă",
+    "tours": "Tururi",
+    "about": "Despre noi",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Călătorește cu Bee Voyage",
+    "subtitle": "Descoperă lumea împreună cu noi",
+    "cta": "Vezi tururi"
+  },
+  "footer": {
+    "rights": "Toate drepturile rezervate"
+  }
+}

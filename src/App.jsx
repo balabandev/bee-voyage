@@ -1,23 +1,26 @@
-import { useTranslation } from 'react-i18next'
+import { BrowserRouter, Routes, Route } from 'react-router-dom'
+import Navbar from './components/Navbar'
+import Footer from './components/Footer'
+import Home from './pages/Home'
+import Tours from './pages/Tours'
+import About from './pages/About'
+import Contact from './pages/Contact'
 
 export default function App() {
-  const { t, i18n } = useTranslation()
-
   return (
-    <div className="min-h-screen bg-blue-500 flex flex-col items-center justify-center gap-4">
-      <h1 className="text-4xl font-bold text-white">{t('hero.title')}</h1>
-      <p className="text-white text-xl">{t('hero.subtitle')}</p>
-      <div className="flex gap-2">
-        {['ru', 'en', 'ro'].map(lang => (
-          <button
-            key={lang}
-            onClick={() => i18n.changeLanguage(lang)}
-            className="bg-white text-blue-500 px-4 py-2 rounded font-bold uppercase"
-          >
-            {lang}
-          </button>
-        ))}
+    <BrowserRouter>
+      <div className="min-h-screen flex flex-col">
+        <Navbar />
+        <main className="flex-1">
+          <Routes>
+            <Route path="/" element={<Home />} />
+            <Route path="/tours" element={<Tours />} />
+            <Route path="/about" element={<About />} />
+            <Route path="/contact" element={<Contact />} />
+          </Routes>
+        </main>
+        <Footer />
       </div>
-    </div>
+    </BrowserRouter>
   )
 }

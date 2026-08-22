@@ -11,21 +11,24 @@
     "cta": "View Tours"
   },
   "footer": {
-    "rights": "All rights reserved"
+    "rights": "All rights reserved",
+    "desc": "Dream travels at the best prices. We create unforgettable experiences.",
+    "nav": "Navigation",
+    "contacts": "Contacts"
   },
   "features": {
-  "title": "Why choose us",
-  "flights": {
-    "title": "Flights",
-    "desc": "Best prices on flights worldwide"
-  },
-  "hotels": {
-    "title": "Hotels",
-    "desc": "Accommodation for every budget"
-  },
-  "guides": {
-    "title": "Guides",
-    "desc": "Experienced guides for every destination"
+    "title": "Why choose us",
+    "flights": {
+      "title": "Flights",
+      "desc": "Best prices on flights worldwide"
+    },
+    "hotels": {
+      "title": "Hotels",
+      "desc": "Accommodation for every budget"
+    },
+    "guides": {
+      "title": "Guides",
+      "desc": "Experienced guides for every destination"
+    }
   }
-}
 }

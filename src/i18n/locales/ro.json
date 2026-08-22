@@ -11,21 +11,24 @@
     "cta": "Vezi tururi"
   },
   "footer": {
-    "rights": "Toate drepturile rezervate"
+    "rights": "Toate drepturile rezervate",
+    "desc": "Călătorii de vis la cele mai bune prețuri. Creăm experiențe de neuitat.",
+    "nav": "Navigare",
+    "contacts": "Contacte"
   },
   "features": {
-  "title": "De ce ne aleg pe noi",
-  "flights": {
-    "title": "Zboruri",
-    "desc": "Cele mai bune prețuri pentru zboruri"
-  },
-  "hotels": {
-    "title": "Hoteluri",
-    "desc": "Cazare pentru orice buget"
-  },
-  "guides": {
-    "title": "Ghizi",
-    "desc": "Ghizi experimentați pentru orice destinație"
+    "title": "De ce ne aleg pe noi",
+    "flights": {
+      "title": "Zboruri",
+      "desc": "Cele mai bune prețuri pentru zboruri"
+    },
+    "hotels": {
+      "title": "Hoteluri",
+      "desc": "Cazare pentru orice buget"
+    },
+    "guides": {
+      "title": "Ghizi",
+      "desc": "Ghizi experimentați pentru orice destinație"
+    }
   }
-}
 }

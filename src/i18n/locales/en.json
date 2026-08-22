@@ -12,5 +12,20 @@
   },
   "footer": {
     "rights": "All rights reserved"
+  },
+  "features": {
+  "title": "Why choose us",
+  "flights": {
+    "title": "Flights",
+    "desc": "Best prices on flights worldwide"
+  },
+  "hotels": {
+    "title": "Hotels",
+    "desc": "Accommodation for every budget"
+  },
+  "guides": {
+    "title": "Guides",
+    "desc": "Experienced guides for every destination"
   }
+}
 }

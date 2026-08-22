@@ -12,5 +12,20 @@
   },
   "footer": {
     "rights": "Toate drepturile rezervate"
+  },
+  "features": {
+  "title": "De ce ne aleg pe noi",
+  "flights": {
+    "title": "Zboruri",
+    "desc": "Cele mai bune prețuri pentru zboruri"
+  },
+  "hotels": {
+    "title": "Hoteluri",
+    "desc": "Cazare pentru orice buget"
+  },
+  "guides": {
+    "title": "Ghizi",
+    "desc": "Ghizi experimentați pentru orice destinație"
   }
+}
 }

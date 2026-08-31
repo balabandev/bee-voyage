@@ -30,5 +30,28 @@
       "title": "Guides",
       "desc": "Experienced guides for every destination"
     }
+  },
+  "tours": {
+  "title": "Our Tours",
+  "subtitle": "Choose your perfect journey",
+  "days": "days",
+  "from": "from",
+  "book": "Book Now",
+  "destinations": {
+    "paris": "Paris, France",
+    "bali": "Bali, Indonesia",
+    "istanbul": "Istanbul, Turkey",
+    "maldives": "Maldives",
+    "rome": "Rome, Italy",
+    "london": "London, UK"
+  },
+  "descriptions": {
+    "paris": "The city of love, fashion and gastronomy",
+    "bali": "Island of gods with paradise beaches",
+    "istanbul": "At the crossroads of Europe and Asia",
+    "maldives": "Crystal waters and white sand",
+    "rome": "The eternal city with a thousand-year history",
+    "london": "The capital of the world and culture"
   }
+}
 }

@@ -30,5 +30,28 @@
       "title": "Ghizi",
       "desc": "Ghizi experimentați pentru orice destinație"
     }
+  },
+  "tours": {
+  "title": "Tururile noastre",
+  "subtitle": "Alege călătoria ta perfectă",
+  "days": "zile",
+  "from": "de la",
+  "book": "Rezervă",
+  "destinations": {
+    "paris": "Paris, Franța",
+    "bali": "Bali, Indonezia",
+    "istanbul": "Istanbul, Turcia",
+    "maldives": "Maldive",
+    "rome": "Roma, Italia",
+    "london": "Londra, Marea Britanie"
+  },
+  "descriptions": {
+    "paris": "Orașul iubirii, modei și gastronomiei",
+    "bali": "Insula zeilor cu plaje paradisiace",
+    "istanbul": "La răscrucea Europei și Asiei",
+    "maldives": "Ape cristaline și nisip alb",
+    "rome": "Orașul etern cu o istorie milenară",
+    "london": "Capitala lumii și culturii"
   }
+}
 }

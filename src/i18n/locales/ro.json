@@ -37,21 +37,31 @@
   "days": "zile",
   "from": "de la",
   "book": "Rezervă",
-  "destinations": {
-    "paris": "Paris, Franța",
-    "bali": "Bali, Indonezia",
-    "istanbul": "Istanbul, Turcia",
-    "maldives": "Maldive",
-    "rome": "Roma, Italia",
-    "london": "Londra, Marea Britanie"
+  "maldives": { "name": "Maldive", "desc": "Ape cristaline și nisip alb" },
+  "venice": { "name": "Veneția, Italia", "desc": "Orașul romantic pe apă" },
+  "swiss": { "name": "Elveția", "desc": "Peisaje alpine și aer curat" },
+  "morocco": { "name": "Maroc", "desc": "Exotismul orientului și deșertul Sahara" },
+  "bali": { "name": "Bali, Indonezia", "desc": "Insula zeilor cu plaje paradisiace" },
+  "paris": { "name": "Paris, Franța", "desc": "Orașul iubirii, modei și gastronomiei" }
   },
-  "descriptions": {
-    "paris": "Orașul iubirii, modei și gastronomiei",
-    "bali": "Insula zeilor cu plaje paradisiace",
-    "istanbul": "La răscrucea Europei și Asiei",
-    "maldives": "Ape cristaline și nisip alb",
-    "rome": "Orașul etern cu o istorie milenară",
-    "london": "Capitala lumii și culturii"
+  "about": {
+    "title": "Despre noi",
+    "subtitle": "Suntem o echipă de călători îndrăgostiți de această lume",
+    "years": "ani de experiență",
+    "story": {
+      "title": "Povestea noastră",
+      "p1": "Bee Voyage s-a născut din pasiunea pentru călătorii. Am început ca o mică echipă de visători care au vrut să ajute oamenii să descopere lumea.",
+      "p2": "Astăzi organizăm tururi în întreaga lume, adaptând fiecare călătorie individual pentru clienții noștri."
+    },
+    "stats": {
+      "clients": "Clienți mulțumiți",
+      "destinations": "Destinații",
+      "years": "Ani de experiență",
+      "satisfaction": "Satisfacție"
+    },
+    "mission": {
+      "title": "Misiunea noastră",
+      "text": "Credem că călătoriile schimbă oamenii. Misiunea noastră este să facem fiecare călătorie de neuitat, accesibilă și sigură."
+    }
   }
-}
 }

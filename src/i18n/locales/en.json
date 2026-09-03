@@ -31,27 +31,37 @@
       "desc": "Experienced guides for every destination"
     }
   },
-  "tours": {
+ "tours": {
   "title": "Our Tours",
   "subtitle": "Choose your perfect journey",
   "days": "days",
   "from": "from",
   "book": "Book Now",
-  "destinations": {
-    "paris": "Paris, France",
-    "bali": "Bali, Indonesia",
-    "istanbul": "Istanbul, Turkey",
-    "maldives": "Maldives",
-    "rome": "Rome, Italy",
-    "london": "London, UK"
+  "maldives": { "name": "Maldives", "desc": "Crystal waters and white sand" },
+  "venice": { "name": "Venice, Italy", "desc": "Romantic city on the water" },
+  "swiss": { "name": "Switzerland", "desc": "Alpine landscapes and fresh air" },
+  "morocco": { "name": "Morocco", "desc": "Eastern exotica and the Sahara desert" },
+  "bali": { "name": "Bali, Indonesia", "desc": "Island of gods with paradise beaches" },
+  "paris": { "name": "Paris, France", "desc": "The city of love, fashion and gastronomy" }
   },
-  "descriptions": {
-    "paris": "The city of love, fashion and gastronomy",
-    "bali": "Island of gods with paradise beaches",
-    "istanbul": "At the crossroads of Europe and Asia",
-    "maldives": "Crystal waters and white sand",
-    "rome": "The eternal city with a thousand-year history",
-    "london": "The capital of the world and culture"
+  "about": {
+    "title": "About Us",
+    "subtitle": "We are a team of travelers in love with this world",
+    "years": "years of experience",
+    "story": {
+      "title": "Our Story",
+      "p1": "Bee Voyage was born from a passion for travel. We started as a small team of dreamers who wanted to help people discover the world.",
+      "p2": "Today we organize tours worldwide, tailoring each journey individually for our clients."
+    },
+    "stats": {
+      "clients": "Happy Clients",
+      "destinations": "Destinations",
+      "years": "Years of Experience",
+      "satisfaction": "Satisfaction"
+    },
+    "mission": {
+      "title": "Our Mission",
+      "text": "We believe travel changes people. Our mission is to make every trip unforgettable, accessible and safe."
+    }
   }
-}
 }

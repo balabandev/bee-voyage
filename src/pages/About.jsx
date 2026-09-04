@@ -30,7 +30,7 @@ export default function About() {
           </div>
           <div className="relative">
             <img
-              src="https://images.unsplash.com/photo-1522199755839-a2bacb67c546?w=600"
+              src="https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=600"
               alt="Travel"
               className="rounded-2xl shadow-lg w-full object-cover h-72"
             />

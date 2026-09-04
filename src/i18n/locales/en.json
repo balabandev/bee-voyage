@@ -63,5 +63,25 @@
       "title": "Our Mission",
       "text": "We believe travel changes people. Our mission is to make every trip unforgettable, accessible and safe."
     }
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Get in touch with us",
+    "info": {
+      "title": "Our Contacts",
+      "location": "Address",
+      "hours": "Working Hours",
+      "hoursValue": "Mon-Sun: 9:00 - 21:00"
+    },
+    "form": {
+      "title": "Write to Us",
+      "name": "Your Name",
+      "namePlaceholder": "John Smith",
+      "phone": "Phone",
+      "message": "Message",
+      "messagePlaceholder": "Tell us about your dream trip...",
+      "submit": "Write on Instagram",
+      "note": "We reply within 1 hour"
+    }
   }
 }

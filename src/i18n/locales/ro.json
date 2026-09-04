@@ -63,5 +63,25 @@
       "title": "Misiunea noastră",
       "text": "Credem că călătoriile schimbă oamenii. Misiunea noastră este să facem fiecare călătorie de neuitat, accesibilă și sigură."
     }
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Contactează-ne în orice mod convenabil",
+    "info": {
+      "title": "Contactele noastre",
+      "location": "Adresă",
+      "hours": "Program de lucru",
+      "hoursValue": "Lun-Dum: 9:00 - 21:00"
+    },
+    "form": {
+      "title": "Scrie-ne",
+      "name": "Numele tău",
+      "namePlaceholder": "Ion Ionescu",
+      "phone": "Telefon",
+      "message": "Mesaj",
+      "messagePlaceholder": "Spune-ne despre călătoria visurilor tale...",
+      "submit": "Scrie pe Instagram",
+      "note": "Răspundem în decurs de 1 oră"
+    }
   }
 }
